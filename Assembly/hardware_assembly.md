@@ -16,7 +16,7 @@ This document outlines the steps required to assemble the hardware components of
 3. **Electronics Installation**:
    - Install Navio2, telemetry radio, motor drivers, and other electronic components.
 
-For detailed component listings and assembly instructions, refer to the full [ROV Hardware Build Instructions PDF](https://github.com/ObinnaNdbs/Mars-Rover/blob/main/Documents/ROV_Hardware_Build_Instructions.pdf).
+For detailed component listings and assembly instructions, refer to the full [ROV Hardware Build Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Hardware_Build_Instructions.pdf).
 
 # IMAGES
 ![3b137ff08cfc330fc1dea29c0fa805a](https://github.com/ObinnaNdbs/Mars-Rover/assets/159606096/bb36cb0d-d490-435a-be01-d456ab912762)
