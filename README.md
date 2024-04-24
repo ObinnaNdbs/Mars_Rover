@@ -26,7 +26,7 @@ Found in the [Experiment](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Exp
 - **Weather Data Measurement**: The Rover's sensors collected temperature and altitude data which were then compared to known values from reliable sources.
 
 ## Usage
-The rover's main functionalities include weather data measurement and autonomous navigation. The rover utilizes a range of sensors to collect environmental data and follows a pre-defined path of GPS waypoints. Using the Mission Planner to setup the parameters of the rovers
+The rover's main functionalities include weather data measurement and autonomous navigation. The rover utilizes a range of sensors to collect environmental data and follows a pre-defined path of GPS waypoints.
 
 ## Documentation
 Instruction manuals provided to us can be found in the [Documents](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Documents) directory.
