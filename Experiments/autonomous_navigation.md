@@ -1,7 +1,7 @@
 # Autonomous Navigation through Waypoint
 
 ## Overview
-This document explores the Mars Rover's performance in autonomous navigation, detailing the setup, execution, and results of navigating a pre-defined path using waypoints.
+This document explores the Mars Rover's performance in autonomous navigation, detailing the setup, execution, and results of navigating a pre-defined path using waypoints. Using the MIssion Planner to setup all the test parameters.
 
 ## Navigation Setup
 - **PID Settings**: Configured to optimize path accuracy and minimize deviations from the planned trajectory.
