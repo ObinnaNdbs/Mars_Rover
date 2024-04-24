@@ -26,4 +26,4 @@ This document guides you through setting up the software necessary for operating
 - **Boot the Raspberry Pi**: Insert the SD card into the Raspberry Pi and power it on.
 - **Connect via SSH**: Use an SSH client to connect to the Raspberry Pi. The default hostname is raspberrypi, and the default login is pi with the password raspberry.
 
-For detailed steps and troubleshooting, refer to the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars-Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
+For detailed steps and troubleshooting, refer to the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
