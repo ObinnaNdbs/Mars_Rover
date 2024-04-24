@@ -14,7 +14,7 @@ This document guides you through setting up the software necessary for operating
 - **Install Navio2 Drivers**: Navigate to [Emlid Documentation](https://docs.emlid.com/navio2/) to download and install the necessary drivers and software for the Navio2.
 
 ### 3. Network Configuration:
-- **Configure Wi-Fi**: Edit the `wpa_supplicant.conf` on the SD card to include your Wi-Fi network details. This file can be accessed by inserting the SD card into a computer and navigating to the boot partition.
+- **Configure Wi-Fi**: Edit the `wpa_supplicant.conf` on the SD card to include your Wi-Fi network details. This file can be accessed by inserting the SD card into a computer and navigating to the boot partition. If use Putty to set up the Raspberry Pi internally later, the labtop and Rasbperry Pi need to be on the same WIFI.
   
   ```plaintext
   network={
