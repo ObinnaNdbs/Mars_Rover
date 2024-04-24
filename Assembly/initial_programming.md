@@ -40,7 +40,7 @@ This document describes the initial programming steps necessary for getting the 
   - Download from [Mission Planner Installation](https://ardupilot.org/planner/docs/mission-planner-installation.html).
   - Set up initial parameters and calibrate sensors as outlined in the guide.
 
-For detailed programming instructions and advanced configurations, please consult the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars-Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
+For detailed programming instructions and advanced configurations, please consult the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
 
 # IMAGES
 <img width="363" alt="f5c585bb904a65383c13b7ad762eda2" src="https://github.com/ObinnaNdbs/Mars-Rover/assets/159606096/e64ecc08-0eb4-47c1-bb5b-e44e1083334e">
