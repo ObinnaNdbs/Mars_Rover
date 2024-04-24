@@ -24,6 +24,6 @@ This document guides you through setting up the software necessary for operating
 - **Enable SSH**: To enable SSH access on your Raspberry Pi, place a file named ssh (without any extension) onto the boot partition of the SD card.
 ### 4. First Boot and SSH Connection:
 - **Boot the Raspberry Pi**: Insert the SD card into the Raspberry Pi and power it on.
-- **Connect via SSH**: Use an SSH client to connect to the Raspberry Pi. The default hostname is raspberrypi, and the default login is pi with the password raspberry.
+- **Connect via SSH**: Use an SSH client to connect to the Raspberry Pi. The default hostname is **raspberrypi**, and the default login is **pi** with the password **raspberry**.
 
 For detailed steps and troubleshooting, refer to the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
