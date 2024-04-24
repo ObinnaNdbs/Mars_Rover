@@ -13,7 +13,7 @@ This repository contains all resources and documentation for Group 5's Mars Rove
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
-Instructions for setting up the Mars Rover hardware and software are detailed in the [Assembly](https://github.com/ObinnaNdbs/Mars-Rover/tree/main/Assembly) directory. 
+Instructions for setting up the Mars Rover hardware and software are detailed in the [Assembly](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Assembly) directory. 
 
 ## Features
 - **Autonomous Navigation**: Utilizing GPS data to navigate between waypoints with accuracy.
@@ -21,7 +21,7 @@ Instructions for setting up the Mars Rover hardware and software are detailed in
 - **PID Control System**: Implementing a robust PID control system for precise movement and steering capabilities.
 
 ## Experiment
-Found in the [Experiment](https://github.com/ObinnaNdbs/Mars-Rover/tree/main/Experiment) directory.
+Found in the [Experiment](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Experiment) directory.
 - **Autonomous Navigation**: The Rover was tasked to navigate through a series of waypoints autonomously, and its ability to maintain the course was evaluated.
 - **Weather Data Measurement**: The Rover's sensors collected temperature and altitude data which were then compared to known values from reliable sources.
 
@@ -29,7 +29,7 @@ Found in the [Experiment](https://github.com/ObinnaNdbs/Mars-Rover/tree/main/Exp
 The rover's main functionalities include weather data measurement and autonomous navigation. The rover utilizes a range of sensors to collect environmental data and follows a pre-defined path of GPS waypoints.
 
 ## Documentation
-Instruction manuals provided to us can be found in the [Documents](https://github.com/ObinnaNdbs/Mars-Rover/tree/main/Documents) directory.
+Instruction manuals provided to us can be found in the [Documents](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Documents) directory.
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
