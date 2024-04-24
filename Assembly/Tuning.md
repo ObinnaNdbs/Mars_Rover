@@ -1,7 +1,7 @@
 # Rover Tuning Parameters Explanation
 
 ## Overview
-This document details the individual parameters used for tuning the Rover's movement and navigation systems, explaining the role each one plays in the vehicle's performance. Correctly adjusting these values is essential for the Rover's optimal autonomous navigation performance.(all settings are based on connecting the laptop and teh rovers using the radio). Both radio settings must match! 
+This document details the individual parameters used for tuning the Rover's movement and navigation systems, explaining the role each one plays in the vehicle's performance. Correctly adjusting these values is essential for the Rover's optimal autonomous navigation performance.(all settings are based on connecting the laptop and the rovers using the radio). Both radio settings must match! 
 ![image](https://github.com/ObinnaNdbs/Mars-Rover/assets/159606096/8b24dac1-ad6c-4b95-be76-78415a7c234f)
 
 ## Steering Rate Parameters
