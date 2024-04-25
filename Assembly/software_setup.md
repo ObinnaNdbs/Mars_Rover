@@ -29,5 +29,7 @@ This document guides you through setting up the software necessary for operating
 ### 5. Find the IP address:
 - **Connect via SSH**: Using **ifconfig** code to get the Raspberry pi IP address.
   ![Raspberry pi IP_address](https://github.com/ShuoHuang999678/image/blob/main/IP_address.jpg?raw=true)
-  
+
+### 6. View Data
+- **Download Winscp**:
 For detailed steps and troubleshooting, refer to the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
