@@ -1,6 +1,7 @@
 # Raspberry Pi Common Commands
 ## Overview
 This document introduces the relevant instructions in the Raspberry Pi. We can add or delete some files or codes to realize the multi-functionality of Raspberry Pi.
+## Commands
 ### Defult Command Prompt:
 **"pi@raspberrypi:~$"**: It indicates that teh current host is **raspberrypi*, the user is **pi*, and the user is in the home directory of the "pi" user(/home/pi).
 ### Sudo:
