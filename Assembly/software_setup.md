@@ -31,6 +31,6 @@ This document guides you through setting up the software necessary for operating
   ![Raspberry pi IP_address](https://github.com/ShuoHuang999678/image/blob/main/IP_address.jpg?raw=true)
 
 ### 6. View Data
-- **Download WinSCP**: Using this link to download the WinSCP: [WinSCP](https://winscp.net/eng/index.php).
+- **Download WinSCP**: Using [WinSCP](https://winscp.net/eng/index.php) to get the testing data. The test data of the rovers are automatically saved.
 - 
 For detailed steps and troubleshooting, refer to the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
