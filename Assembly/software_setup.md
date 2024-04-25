@@ -35,5 +35,6 @@ This document guides you through setting up the software necessary for operating
 - **Loging in WInSCP**:The username is **pi**,password is **raspberry**, and the hostname is **Your raspberry pi's IP address**. 
 - **File BIN**: Go to /var/lib/ardupilot/logs/ to find **BIN** files, the last file is the latest measurement data, and you need to download it to your laptop.
 - **View BIN file**: Using [UAV Log Viewer](https://plot.ardupilot.org/#/) to view the data. Selecting the “Plot Individual Field” it will list the groups
+  ![UVA Log Viewer](https://github.com/ShuoHuang999678/image/blob/main/1714019005027.png?raw=true)
   
 For detailed steps and troubleshooting, refer to the full [ROV Avionics Instructions PDF](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/ROV_Avionics_instructions.pdf).
