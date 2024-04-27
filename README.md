@@ -29,7 +29,7 @@ Found in the [Experiment](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Exp
 The rover's main functionalities include weather data measurement and autonomous navigation. The rover utilizes a range of sensors to collect environmental data and follows a pre-defined path of GPS waypoints.
 
 ## Documentation
-Instruction manuals provided to us can be found in the [Documents](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Documents) directory.
+Instruction manuals provided to us and the [bin file](https://github.com/ObinnaNdbs/Mars_Rover/blob/main/Documents/00000070.BIN) can be found in the [Documents](https://github.com/ObinnaNdbs/Mars_Rover/tree/main/Documents) directory.
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
