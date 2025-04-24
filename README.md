@@ -2,6 +2,8 @@
 
 ## Overview
 This repository contains all resources and documentation for Group 5's Mars Rover project. Our project aims to design a rover that can autonomously navigate through waypoints while measuring environmental data.
+![Rover](https://github.com/user-attachments/assets/6bb37b09-e2e2-48e9-9a5b-86dde731ca62)
+
 
 ## Contents
 - [Installation](#installation)
